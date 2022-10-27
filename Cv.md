@@ -1,7 +1,7 @@
 
 I am shahin javan , born in urmia 1368/03/25; I am a bachelor student of Payame Noor University of rey city Center with a major in computer software engineering.
 
-phon numberp9147143059
+phon number : 09147143059
 
 Personal information>>
 
@@ -41,9 +41,9 @@ Conversational skills 2 out of 5
 
 نام خانوادگی : جوان
 
-تولد  ۲۵ خرداد  ۱۳۶۸
+تاریخ تولد : ۲۵ خرداد  ۱۳۶۸
 
-زبان
+زبان :
 
 فارسی
 
@@ -56,11 +56,12 @@ Conversational skills 2 out of 5
 
 
 
-مهارت هامهارت خواندن 4 از 5مهارت 3 از 5مهارت گفتگو 3 از 5سوابق کاریگواهی مهار
+مهارت هامهارت خواندن 2 از 5مهارت 2 از 5مهارت گفتگو 2 از 5سوابق کاریگواهی مهار
 
 علاقه مند به برنامه نویسی c#
 
-کد نویسی تحت کلاینت سرور 
+کد نویسی تحت کلاینت سرور
+
 پی اچ پی
 
 سی اس اس 
