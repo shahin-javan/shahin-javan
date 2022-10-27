@@ -21,13 +21,12 @@ Turkiye
 
 Skills
 
-Reading skills 3 out of 5
+Reading skills 2 out of 5
 
-Writing skills 3 out of 5
+Writing skills 2 out of 5
 
 Conversational skills 2 out of 5
 
-Work ExperienceCertificationsContact MeGmail: fmahdikhanli.73@gmail.comدرباره من
 
 
 من شاهین جوان هستم ، متولد ۱۳۶۸/۰۳/۲۵; دانشجوی کارشناسی دانشگاه پیام نور مرکز ری با گرایش مهندسی کامپیوترنرم افزار .
