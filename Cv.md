@@ -9,7 +9,7 @@ First name : shahin
 
 Last name : javan
 
-Birth Day : 15 jun 1368
+Birth Day : 15 jun 1989
 
 Languages :
 
@@ -28,6 +28,15 @@ Reading skills 2 out of 5
 Writing skills 2 out of 5
 
 Conversational skills 2 out of 5
+
+
+Address and place of work: 
+
+Currently, an employee of Urmia Municipality, 
+
+beautification organization City Advertising Department, 
+
+I am an audit and tax expert
 
 
 
@@ -56,7 +65,10 @@ Conversational skills 2 out of 5
 
 مهارت ها : 
 
-مهارت خواندن 2 از 5مهارت 2 از 5مهارت گفتگو 2 از 5سوابق کاریگواهی مهار
+5 مهارت خواندن 2 از 
+5 مهارت نوشتن 2 از 
+5 مهارت گفتگو 2 از 
+
 
 علاقه مند به برنامه نویسی c#
 
@@ -67,3 +79,8 @@ Conversational skills 2 out of 5
 سی اس اس 
 
 پوت استراپ
+
+آدرس و محل کار :
+
+در حال حاضر کارمند شهرداری ارومیه سازمان زیباسازی
+ .اداره تبلیغات شهری کارشناس ممیزی و عوارض هستم 
